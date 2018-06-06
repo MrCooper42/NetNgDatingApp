@@ -1,0 +1,6 @@
+[submodule "DatingApp.API"]
+	path = DatingApp.API
+	url = https://github.com/MrCooper42/NetNgDatingAppApi.git
+[submodule "DatingApp-SPA"]
+	path = DatingApp-SPA
+	url = https://github.com/MrCooper42/NetNgDatingAppSpa.git
